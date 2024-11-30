@@ -1,3 +1,21 @@
+#harware used in my variation
+ESP32-S3 Development Board 2.4G Wifi Module for Arduino ESP IDF ESP32-S3-WROOM-1 N8R2 N16R8 44Pin Type-C 8M PSRAM ESP32 S3
+(https://www.aliexpress.com/item/1005007520936918.html)
+
+TTP229 1/4/8/16Channel Jog Digital Touch Button Sensor Capacitive Switch Modules Accessories for Arduino
+(https://www.aliexpress.com/item/1005007534045183.html)
+
+12 16 Key 4*4 4*3 Membrane Switch Keypad 4 x 4 4 x 3 Matrix Array Matrix keyboard membrane switch keypad for arduino
+(https://www.aliexpress.com/item/1005003154853881.html)
+
+0.96 Inch OLED Display Module SSD1306 I2C IIC SPI Serial 128X64 LCD 4 Pin YellowBlue WhiteBlue for Arduino(Pin Headers Soldered)
+(https://www.aliexpress.com/item/1005007389730469.html)
+
+PCM5102 PCM5102A DAC Sound Card Board pHAT 3.5mm Stereo Jack 24 Bits Digital Audio Module for for Raspberry Pi Beyond
+(https://www.aliexpress.com/item/1005004215170923.html)
+
+
+
 # Important Notes:
 * ESP32 S3 with 512kb RAM and 4MB Flash Required if building DIY MothSynths
 * When compiling sketch, select PARTITION SCHEME / HUGE APP from Arduino IDE tools menu, otherwise the app wont fit on your esp32
